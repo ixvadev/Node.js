@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ff764fd0-89b9-490d-9032-130c74330a83)
+
 
 # Node.js
 
