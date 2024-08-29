@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/ff764fd0-89b9-490d-9032-130c74330a83)
+
 # Node.js
 
 Node.js — bu JavaScript dasturlash tilida yozilgan server tomonida ishlaydigan muhit. Node.js asosan server tomonida ishlash uchun mo'ljallangan bo'lib, tez va samarali dasturlar yaratishga imkon beradi. Bu muhit asosan Google V8 JavaScript dvigateliga asoslangan.
